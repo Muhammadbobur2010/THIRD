@@ -1,0 +1,153 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.left img{
+    width: 720px;
+height: 899.82px;
+}
+
+.left{
+    
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 232px;
+    
+}
+h1{
+    color: var(--900, #1A202C);
+font-family: Roboto;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 24px;
+}
+p{
+    color: var(--800, #2D3748);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 2px;
+}
+
+.content{
+    display: flex;
+}
+
+
+
+form a{
+    color: var(--800, #2C5282);
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+form p{
+    color: var(--800, #2D3748);
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+form input{
+    margin-bottom: 41px;
+    width: 350px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 5px;
+border: 1px solid #E8E8E8;
+}
+
+
+.right-2{
+    display: flex;
+    gap: 119px;
+    margin-top: 28px;
+    margin-bottom: 27px;
+}
+
+button p{
+    color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+button{
+    width: 347px;
+height: 50px;
+flex-shrink: 0;
+margin-bottom: 30px;
+}
+
+
+    .button-2{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+background: var(--800, #2D3748);
+    }
+
+    button{
+        border-radius: 5px;
+background: #04C35C;
+    }
+
+    .claas-2{
+        display: flex;
+        margin-top: 178px;
+        justify-content: center;
+    }
+
+    .claas-2 a{
+        color: var(--700, #2B6CB0);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+
+    .claas-2 p{
+        color: #616161;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+
+
+    form p{
+        color: var(--700, #4A5568);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 11px;
+    }
